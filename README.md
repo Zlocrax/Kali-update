@@ -1,3 +1,5 @@
+![1000474532](https://github.com/user-attachments/assets/de3066a8-0705-4249-9496-2b6160bfc617)
+![1000474534](https://github.com/user-attachments/assets/7160ffb9-5de2-4e43-a9b5-54de2d2e0e6b)
 # Kali-update
 
 This is the update for my kali nethunter installer
