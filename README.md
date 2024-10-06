@@ -12,7 +12,7 @@ Make sure your cmd line looks like this ┌──(root㉿localhost)-[~]
 
 If so please follow my steps (copy and paste 1by1)
 
-git clone https://github.com/Zlocrax/Kali-update
+git clone https:<i></i>//github.com/Zlocrax/Kali-update
 
 cd Kali-update
 
