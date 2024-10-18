@@ -1,5 +1,5 @@
 import os
-print ("""\033[93m┌──
+print ("""\033[93m┌ZłO-KALI-NH
 İNSTALLİNG AİRCRACK-NG
 İNSTALLİNG REAVER
 İNSTALLİNG SET
@@ -18,15 +18,15 @@ print ("""\033[93m┌──
 İNSTALLİNG MASSCAN
 İNSTALLİNG HASHCAT
 \033[0m""")
-os.system("sudo apt install aircrack-ng")
-os.system("sudo apt install reaver")
-os.system("sudo apt install set")
-os.system("sudo apt install maltego")
-os.system("sudo apt install zaproxy")
-os.system("sudo apt install nikto")
-os.system("sudo apt install sherlock")
-os.system("sudo apt install burpsuite")
-os.system("sudo apt install hydra")
+os.system("apt install aircrack-ng")
+os.system("apt install reaver")
+os.system("apt install set")
+os.system("apt install maltego")
+os.system("apt install zaproxy")
+os.system("apt install nikto")
+os.system("apt install sherlock")
+os.system("apt install burpsuite")
+os.system("apt install hydra")
 os.system("pip install maxphisher")
 os.system("git clone https://github.com/AdliXSec/Shell-Finder")
 os.system("git clone https://github.com/golismero/golismero")
